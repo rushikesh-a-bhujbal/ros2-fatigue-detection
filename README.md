@@ -295,22 +295,6 @@ Planned improvements:
 
 ---
 
-# Important Notes
-
-## Do NOT Commit
-
-These folders/files should never be pushed:
-
-```text
-build/
-install/
-log/
-venv/
-__pycache__/
-*.csv
-```
-
----
 
 # Repository
 
